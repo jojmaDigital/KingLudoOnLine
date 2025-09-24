@@ -1,0 +1,11 @@
+---
+export const prerender = false;
+
+import { resolveLang } from "../lib/i18n";
+
+const acceptLang = Astro.request.headers.get("accept-language") || "";
+const browserLang = acceptLang.split(",")[0].split("-")[0];
+const targetLang = resolveLang(browserLang);
+
+Astro.redirect(`/${targetLang}/`);
+---

@@ -1,0 +1,44 @@
+{
+  "siteName": "Ludo King en Línea",
+  "title": "Jugar Ludo King Online – Juego de Mesa Gratis | Sin Descargas",
+  "description": "Disfruta de Ludo King, el clásico juego de mesa multijugador, directamente en tu navegador. Juega gratis, sin descargas ni registros. Compatible con móviles, tabletas y ordenadores. Seguro y divertido para todas las edades.",
+  "play": "Jugar ahora",
+  "enjoy": "¡Disfruta del juego!",
+  "subtitle": "El juego de mesa Ludo más popular en línea",
+  "cta": "Jugar Ahora",
+  "howToPlayTitle": "Cómo Jugar",
+  "howToPlaySteps": [
+    "Haz clic o toca el dado para lanzarlo.",
+    "Mueve tus fichas según el número obtenido.",
+    "Lleva las cuatro fichas a la zona de llegada antes que tus rivales."
+  ],
+  "nav": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio"
+  },
+  "aboutTitle": "Sobre nosotros",
+  "aboutContent": "¡Bienvenido a nuestro sitio! Te ofrecemos los mejores juegos de mesa gratuitos en línea como Ludo King, listos para jugar sin descargas.",
+  "aboutSubtitle": "Descubre más sobre Ludo King y nuestra misión de ofrecer juegos en línea divertidos, seguros y gratuitos para todos.",
+  "aboutCard1Title": "Divertido y Atractivo",
+  "aboutCard1Text": "Tira el dado, mueve tus fichas y disfruta de partidas emocionantes contra amigos o la computadora.",
+  "aboutCard2Title": "Seguro para Todos",
+  "aboutCard2Text": "Juega en un entorno familiar, protegido y apto para niños.",
+  "aboutCard3Title": "Siempre Gratis",
+  "aboutCard3Text": "Sin descargas, sin costes ocultos — ¡solo haz clic y juega Ludo King en línea!",
+  
+  "privacyTitle": "Política de Privacidad",
+  "privacyContent": "Tu privacidad es fundamental para nosotros. Esta página explica cómo recopilamos y utilizamos tus datos personales.",
+  "privacySubtitle": "Tu privacidad es importante. Descubre cómo protegemos y gestionamos tu información personal.",
+  "privacyCTA": "Respetamos tu privacidad",
+  "privacyCTAText": "Nuestra misión es ofrecer una experiencia de juego segura y transparente para todos.",
+  "privacyCTAButton": "Juega Ludo King de forma segura",
+
+  "termsTitle": "Términos de Servicio",
+  "termsContent": "Al utilizar este sitio, aceptas cumplir con nuestras normas y condiciones.",
+  "termsSubtitle": "Lee atentamente nuestros términos para comprender tus derechos y responsabilidades al usar nuestros servicios.",
+  "termsCTA": "Al jugar, aceptas nuestros términos",
+  "termsCTAText": "Nos comprometemos a brindar una experiencia justa, transparente y divertida para todos nuestros jugadores.",
+  "termsCTAButton": "Juega Ludo King ahora"
+}

@@ -1,0 +1,47 @@
+---
+import Hero from "../../components/Hero.astro";
+import Game from "../../components/Game.astro";
+import Layout from "../../layouts/Layout.astro";
+import OtherGames from "../../components/OtherGames.astro";
+import HowToPlay from "../../components/HowToPlay.astro";
+import Controls from "../../components/Controls.astro";
+import Tips from "../../components/Tips.astro";
+import Features from "../../components/Features.astro";
+import Unblocked from "../../components/Unblocked.astro";
+import Online from "../../components/Online.astro";
+import Faq from "../../components/Faq.astro";
+import Platform from "../../components/Platform.astro";
+import Footer from "../../components/Footer.astro";
+
+import { getLangStaticPaths, resolveLang } from "../../lib/i18n";
+
+export async function getStaticPaths() {
+  return getLangStaticPaths();
+}
+
+const locale = resolveLang(Astro.params.lang);
+const dict = await import(`../../locales/${locale}.json`).then((m) => m.default);
+---
+
+<Layout lang={locale} title={dict.title} description={dict.description} >
+  <div class="flex bg-secondary h-full">
+    <main class="flex-1 flex flex-col items-center justify-center px-4 text-primary">
+      <div class="w-full max-w-6xl">
+        <Game path="https://games-gules-nu.vercel.app/ludo-king/index.html" />
+        <Hero />
+        <OtherGames />
+        <HowToPlay />
+        <Controls />
+        <Tips />
+        <Features />
+        <Unblocked />
+        <Online />
+        <Faq />
+        <Platform />
+        
+      </div>
+    </main>
+  </div>
+  <footer>
+    <Footer siteName="Ludo King Online" locale={locale} />
+</Layout>

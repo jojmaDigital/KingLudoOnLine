@@ -1,0 +1,44 @@
+{
+  "siteName": "Ludo King Online",
+  "title": "Play Ludo King Online – Free Board Game | No Download, Just Fun",
+  "description": "Enjoy Ludo King, the classic multiplayer board game, directly in your browser. Free to play, no downloads required, mobile-friendly, and safe for all ages. Roll the dice, move your tokens, and win the game online today!",
+  "play": "Play Now",
+  "enjoy": "Enjoy the game!",
+  "subtitle": "The world’s favorite online Ludo board game",
+  "cta": "Play Now",
+  "howToPlayTitle": "How to Play",
+  "howToPlaySteps": [
+    "Roll the dice by clicking or tapping the button.",
+    "Move your tokens according to the dice number.",
+    "Bring all four tokens safely to the home area before your opponents."
+  ],
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "aboutTitle": "About Us",
+  "aboutContent": "Welcome to our site! We bring you the best free online board games like Ludo King, playable instantly without downloads.",
+  "aboutSubtitle": "Discover more about Ludo King and our mission to provide fun, safe, and free online gaming for everyone.",
+  "aboutCard1Title": "Fun & Engaging",
+  "aboutCard1Text": "Roll the dice, move your tokens, and enjoy exciting matches with friends or AI.",
+  "aboutCard2Title": "Safe for Everyone",
+  "aboutCard2Text": "Play in a secure, family-friendly, and kid-safe environment.",
+  "aboutCard3Title": "Always Free",
+  "aboutCard3Text": "No downloads, no fees—just click and play Ludo King online for free!",
+
+  "privacyTitle": "Privacy Policy",
+  "privacyContent": "Your privacy is important to us. This page explains how we collect and use your data.",
+  "privacySubtitle": "Your privacy is important to us. Learn how we protect and handle your personal data.",
+  "privacyCTA": "We respect your privacy",
+  "privacyCTAText": "Our mission is to provide a safe and transparent gaming experience for everyone.",
+  "privacyCTAButton": "Play Ludo King Safely",
+
+  "termsTitle": "Terms of Service",
+  "termsContent": "By using this site, you agree to follow these rules and conditions.",
+  "termsSubtitle": "Please read our terms carefully to understand your rights and responsibilities while using our services.",
+  "termsCTA": "By playing, you agree to our terms",
+  "termsCTAText": "We are committed to providing a fair, transparent, and enjoyable experience for all our players.",
+  "termsCTAButton": "Play Ludo King Now"
+}
