@@ -28,16 +28,16 @@ const dict = await import(`../../locales/${locale}.json`).then((m) => m.default)
     <main class="flex-1 flex flex-col items-center justify-center px-4 text-primary">
       <div class="w-full max-w-6xl">
         <Game path="https://games-gules-nu.vercel.app/ludo-king/index.html" />
-        <Hero />
-        <OtherGames />
-        <HowToPlay />
-        <Controls />
-        <Tips />
-        <Features />
-        <Unblocked />
-        <Online />
-        <Faq />
-        <Platform />
+        <Hero dict={dict} />
+        <OtherGames dict={dict} />
+        <HowToPlay dict={dict} />
+        <Controls dict={dict} />
+        <Tips dict={dict} />
+        <Features dict={dict} />
+        <Unblocked dict={dict} />
+        <Online dict={dict} />
+        <Faq dict={dict} />
+        <Platform dict={dict} />
         
       </div>
     </main>

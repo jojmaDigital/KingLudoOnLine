@@ -8,7 +8,7 @@ const {
   isHomePage = false
 } = Astro.props;
 
-const bodyClass = `  ${isHomePage ? 'home-page' : ''}`;
+
 ---
 
 <!doctype html>
@@ -41,7 +41,7 @@ const bodyClass = `  ${isHomePage ? 'home-page' : ''}`;
     </script>
   </head>
 
-  <body class={` ${isHomePage ? 'home-page' : ''}`}>
+  <body class={isHomePage ? 'home-page' : undefined}>
     <Nav siteName="Ludo King Online" />
     <main class={isHomePage ? '' : 'min-h-screen'}>
       <slot />

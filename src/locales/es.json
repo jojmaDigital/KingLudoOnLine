@@ -40,5 +40,124 @@
   "termsSubtitle": "Lee atentamente nuestros términos para comprender tus derechos y responsabilidades al usar nuestros servicios.",
   "termsCTA": "Al jugar, aceptas nuestros términos",
   "termsCTAText": "Nos comprometemos a brindar una experiencia justa, transparente y divertida para todos nuestros jugadores.",
-  "termsCTAButton": "Juega Ludo King ahora"
+  "termsCTAButton": "Juega Ludo King ahora",
+
+  "hero": {
+    "title1": "¡Juega Ludo King Online Gratis!",
+    "desc1": "Entra en el colorido mundo de <strong>Ludo King</strong> — el clásico juego de mesa familiar amado por millones. Tira el dado, mueve tus fichas y corre contra tus oponentes para ser el primero en llevar todas tus piezas a casa. Con sus reglas simples y diseño divertido, es perfecto para que niños, amigos y familias disfruten juntos.",
+    "desc2": "Ya seas nuevo en el juego o ya un campeón de Ludo, cada ronda trae nuevas emociones, estrategia y sorpresas. ¡Juega solo contra la computadora o desafía a tus amigos para diversión interminable!",
+    "title2": "¿Qué es Ludo King?",
+    "desc3": "<strong>Ludo King</strong> es una versión online del juego de mesa tradicional jugado con un dado y cuatro fichas por jugador. Tu objetivo es mover las cuatro fichas alrededor del tablero y hacia la zona de llegada antes que tus oponentes. ¡Cuidado — si otro jugador aterriza en tu ficha, serás enviado de vuelta al inicio!",
+    "desc4": "La versión digital mantiene las mismas reglas clásicas pero añade diseños brillantes, coloridos y animaciones suaves. Juega directamente en tu navegador — sin descargas, sin configuración, solo haz clic y comienza a tirar el dado.",
+    "title3": "¿Por qué Elegir Ludo King?",
+    "desc5": "Ludo King es uno de los mejores juegos de mesa online gratuitos para niños y familias. Es fácil de aprender, emocionante de jugar y una gran manera de practicar la paciencia, el enfoque y la estrategia. Con solo un clic o toque, puedes tirar el dado y guiar tus fichas alrededor del tablero.",
+    "desc6": "Su diseño simple, opción multijugador y jugabilidad fluida lo hacen perfecto para jugar en cualquier momento y lugar — en casa, en pausas escolares o viajando. Dondequiera que estés, Ludo King une a la gente para diversión y competencia amigable.",
+    "desc7": "Con nuevas sorpresas en cada partida y gráficos coloridos, Ludo King hace que el tiempo en pantalla sea tanto entretenido como social."
+  },
+  "howToPlay": {
+    "title": "Cómo Jugar Ludo King",
+    "intro": "¡Bienvenido a <strong>Ludo King</strong>! Es la versión online del clásico juego de mesa familiar que es divertido, colorido y fácil de aprender. Tu objetivo es mover las cuatro fichas alrededor del tablero y llevarlas de manera segura a tu zona de llegada antes que tus oponentes. Sigue estos pasos simples para dominar Ludo King:",
+    "setupTitle": "1. Configurar el Tablero",
+    "setup": [
+      "Cada jugador elige un color (rojo, azul, verde o amarillo).",
+      "Cada jugador comienza con cuatro fichas colocadas en su área de inicio.",
+      "El tablero tiene un camino cuadrado con zonas seguras y atajos que llevan a la columna de llegada."
+    ],
+    "diceTitle": "2. Tirar el Dado",
+    "dice": [
+      "Los jugadores se turnan para tirar el dado.",
+      "Debes tirar un <strong>6</strong> para traer una ficha al tablero desde tu área de inicio.",
+      "Si tiras un 6, obtienes un turno extra — ¡sigue tirando hasta que no saques un 6!"
+    ],
+    "moveTitle": "3. Mover Tus Fichas",
+    "move": [
+      "Haz clic o toca una ficha para moverla hacia adelante según tu tirada de dado.",
+      "Si aterrizas en un cuadrado ocupado por una ficha oponente, los envías de vuelta a su área de inicio.",
+      "Las zonas seguras (cuadrados marcados) protegen tu ficha de ser capturada."
+    ],
+    "homeTitle": "4. Llegar a la Zona de Llegada",
+    "home": "Una vez que tus fichas viajen alrededor del tablero, guíalas hacia tu columna de llegada de color. Debes tirar el número exacto necesario para llegar al cuadrado final.",
+    "winTitle": "5. Ganar el Juego",
+    "win": "¡El primer jugador en llevar las cuatro fichas de manera segura a la zona de llegada gana el juego!",
+    "conclusion": "<strong>Ludo King</strong> se trata de suerte, elecciones inteligentes y un poco de estrategia. Usa tus tiradas de dado sabiamente, bloquea a tus oponentes cuando puedas, y corre hacia la victoria!"
+  },
+  "controls": {
+    "title": "Controles para Ludo King",
+    "intro": "¡Jugar <strong>Ludo King</strong> en línea es simple y divertido para todos!",
+    "mouseTouch": "<strong>Ratón o Toque:</strong> Haz clic o toca el dado para tirarlo. Luego, selecciona tu ficha y tócala de nuevo para moverla según el número del dado.",
+    "keyboard": "<strong>Atajos de Teclado:</strong> Usa las teclas de flecha (← ↑ ↓ →) para resaltar fichas, y presiona <strong>Enter</strong> para mover la ficha seleccionada. Presiona la <strong>Barra espaciadora</strong> para tirar el dado rápidamente.",
+    "restart": "<strong>Reinicio Rápido:</strong> ¿Quieres comenzar una nueva partida? Presiona <strong>R</strong> para reiniciar el tablero y empezar de nuevo.",
+    "conclusion": "No se necesitan descargas ni instalaciones — solo abre tu navegador y disfruta del clásico juego de mesa familiar. ¡Perfecto para practicar estrategia, paciencia y divertirse con amigos!"
+  },
+  "tips": {
+    "title": "Consejos y Trucos para Ludo King",
+    "intro": "¡Hola, pequeños campeones de los dados! ¿Quieres convertirte en un maestro de Ludo King y disfrutar de cada partida con amigos o familia? Prueba estos trucos inteligentes pero simples — no se necesitan descargas, solo juego instantáneo en tu navegador!",
+    "tip1Title": "1. Saca Todas Tus Fichas Temprano",
+    "tip1": "Tirar un seis te permite liberar una ficha de tu base. Intenta sacar las cuatro fichas al tablero lo antes posible — esto te da más movimientos y mantiene el juego emocionante.",
+    "tip2Title": "2. Usa las Zonas Seguras con Sabiduría",
+    "tip2": "Algunos cuadrados en el tablero son zonas seguras donde tus fichas no pueden ser capturadas. Estaciónalas allí si necesitas bloquear a los oponentes o esperar el dado perfecto.",
+    "tip3Title": "3. No Te Apresures Solo con Una Ficha",
+    "tip3": "Distribuir tus movimientos entre diferentes fichas te da más opciones. Si solo te enfocas en una pieza, podrías quedarte atascado o perder oportunidades de atacar.",
+    "tip4Title": "4. Observa a Tus Oponentes",
+    "tip4": "Mantén un ojo en dónde están las fichas de los otros jugadores. Si están cerca, muévete con cuidado para evitar ser enviado de vuelta al inicio — o toma la oportunidad de derribarlos primero!",
+    "tip5Title": "5. Planifica el Final Perfecto",
+    "tip5": "Necesitarás el número exacto en el dado para entrar en la zona de llegada. Intenta mover fichas cerca de la línea de llegada y guarda tiradas extra para una entrada perfecta.",
+    "conclusion": "Sigue estos consejos amigables, tira con inteligencia y mira cómo crecen tus habilidades en Ludo King. ¡Diviértete corriendo, bloqueando y celebrando cada victoria con amigos!"
+  },
+  "features": {
+    "title": "Características de Ludo King",
+    "content": "Ludo King es un juego de mesa en línea gratuito que une a amigos y familias. Con sus controles fáciles de tocar y tirar, los jugadores de todas las edades pueden tirar el dado, mover fichas y correr hacia la línea de llegada. El diseño del tablero brillante y colorido y las animaciones vivas hacen que cada partida sea emocionante, mientras que los efectos de sonido alegres añaden diversión a cada movimiento. Ya sea que estés jugando una ronda rápida en solitario contra la computadora o desafiando a tus amigos en modo multijugador, siempre hay un nuevo juego esperando. Y como Ludo King se ejecuta directamente en tu navegador web, no hay necesidad de descargar o instalar nada. Solo haz clic en “Jugar”, tira el dado y disfruta de este clásico atemporal en cualquier momento y lugar."
+  },
+  "otherGames": {
+    "title": "Otros Juegos",
+    "unoTitle": "¡Juega UNO Online Gratis!",
+    "unoDesc": "Entra en un mundo emocionante de cartas coloridas y estrategias inteligentes mientras desafías a tus amigos en este excitante juego de UNO.",
+    "fruitBucketTitle": "Fruit Bucket",
+    "fruitBucketDesc": "Entra en un mundo brillante y colorido en Fruit Bucket, un juego en línea gratuito para niños y familias. Es fácil de jugar y lleno de diversión.",
+    "superMarioTitle": "Super Mario Bros",
+    "superMarioDesc": "Entra en un mundo colorido y vibrante y únete a Mario y Luigi en una aventura emocionante llena de diversión y sorpresas.",
+    "moreGamesTitle": "Más Juegos Como Ludo King",
+    "moreGamesIntro": " ¿Te gusta tirar dados y correr hacia la línea de llegada? Si disfrutas <strong>Ludo King</strong>, definitivamente querrás probar estos juegos de navegador divertidos. No se necesitan descargas — solo abre tu navegador y comienza a jugar con amigos y familia:",
+    "diceDashTitle": "Dice Dash",
+    "diceDashDesc": "Tira el dado y muévete por un tablero colorido mientras evitas obstáculos complicados. Los boosts de velocidad y atajos sorpresa hacen que cada ronda sea emocionante!",
+    "castleRaceTitle": "Castle Race",
+    "castleRaceDesc": "Compite con amigos como caballeros corriendo hacia las puertas del castillo. Usa movimientos inteligentes para bloquear a tus oponentes y llegar a la victoria primero.",
+    "treasureLudoTitle": "Treasure Ludo",
+    "treasureLudoDesc": "Explora un tablero mágico lleno de tesoros ocultos y trampas. Recoge gemas mientras haces correr tus fichas a casa y desbloquea power-ups especiales en el camino.",
+    "conclusion": "Reúne a tus amigos, tira el dado, y descubre cuál aventura de tablero se convertirá en tu próxima favorita!"
+  },
+  "unblocked": {
+    "title": "Ludo King Sin Bloqueo",
+    "intro1": "¡Entra en el mundo emocionante de <strong>Ludo King Sin Bloqueo</strong> — sin descargas, sin límites, solo diversión pura! Perfecto para niños jugando en computadoras escolares o de biblioteca, esta versión en línea carga instantáneamente y puede disfrutarse en cualquier lugar donde tengas acceso a internet. ¿Tu objetivo? Tira el dado, mueve tus fichas alrededor del tablero, y sé el primero en llevar las cuatro de manera segura a casa.",
+    "intro2": "Cada juego trae una nueva carrera llena de sorpresas, estrategia y competencia amigable. Ludo King Sin Bloqueo mantiene tu mente aguda mientras entrega entretenimiento sin parar. Lo mejor de todo, es completamente gratuito y siempre listo para jugar, convirtiendo cualquier descanso en una aventura épica de tirar dados. ¿Estás listo para probar que eres el verdadero campeón de Ludo? ¡Haz clic ahora y comienza a jugar!"
+  },
+
+  "faq": {
+    "title": "Preguntas Frecuentes – Ludo King",
+    "q1": "¿Necesito instalar algo para jugar Ludo King?",
+    "a1": "¡No se necesita instalación! Ludo King funciona directamente en tu navegador web. Solo haz clic en «Jugar» y disfruta del clásico juego de mesa al instante.",
+    "q2": "¿Puedo jugar Ludo King en mi teléfono, tableta u ordenador?",
+    "a2": "¡Sí! Ludo King funciona perfectamente en todos los dispositivos — smartphones, tabletas, laptops y ordenadores de escritorio. Juega en cualquier momento y lugar.",
+    "q3": "¿Cuesta dinero jugar Ludo King?",
+    "a3": "¡Para nada! Ludo King en línea es completamente gratuito. No hay cargos ocultos — solo tira el dado y diviértete.",
+    "q4": "¿Es Ludo King un buen juego para niños y familias?",
+    "a4": "¡Definitivamente! Con reglas simples y jugabilidad colorida, Ludo King es ideal para niños, padres y amigos para disfrutar juntos de manera divertida y segura.",
+    "q5": "¿Cómo iniciar una partida rápida?",
+    "a5": "Haz clic en «Nueva Partida», tira el dado, y mueve tus fichas alrededor del tablero. Tu objetivo es llevar las cuatro fichas de manera segura a la zona de llegada antes que tus oponentes. ¡Es fácil, emocionante y lleno de sorpresas!"
+  },
+
+  "online": {
+    "title": "Ludo King en Línea",
+    "intro1": "<strong>Ludo King en Línea</strong> es un juego de mesa divertido y colorido que todos pueden disfrutar. Puedes comenzar a jugar al instante sin descargas ni registros. Solo abre nuestro sitio web en tu ordenador, tableta o teléfono, toca «Jugar», y tira el dado para comenzar la aventura.",
+    "intro2": "Tu misión es simple: mover las cuatro fichas alrededor del tablero y llevarlas de manera segura a tu zona de llegada antes que tus oponentes. ¡Este juego de mesa en línea gratuito es perfecto para niños, amigos y familias — combina suerte, elecciones inteligentes y competencia amigable en cada partida!",
+    "title2": "Jugar al Juego de Mesa Ludo King en Línea",
+    "intro3": "¿Te gustan los juegos de mesa clásicos? Con Ludo King y sus variaciones emocionantes, puedes disfrutar de horas de entretenimiento directamente en tu navegador. No se necesita descarga — solo visita nuestro sitio, haz clic en «Jugar», y deja que la diversión comience.",
+    "intro4": "Cada juego trae diseños coloridos, animaciones fluidas y nuevas estrategias para explorar. Desafía a tus amigos en modo multijugador o prueba tus habilidades contra la computadora. ¿Listo para jugar Ludo King en línea? Reúne a tu familia, tira el dado, y corre hacia la victoria."
+  },
+
+  "platform": {
+    "title": "Compatibilidad de Plataformas",
+    "subtitle": "Juega Ludo King en Línea en Cualquier Dispositivo",
+    "content": "<strong>Ludo King</strong> es un juego de mesa clásico que puedes disfrutar en cualquier dispositivo — escritorio, laptop, tableta o smartphone. No hay necesidad de descargar o instalar nada. Solo abre tu navegador web, visita la página del juego, y tira el dado para comenzar a jugar al instante. El tablero se adapta automáticamente al tamaño de tu pantalla, de modo que las fichas y caminos sean siempre claros y fáciles de seguir, ya sea en un monitor grande o una pantalla pequeña de teléfono. Disfruta de jugabilidad fluida, animaciones coloridas y partidas emocionantes en casa, viajando o durante un descanso. ¡Con Ludo King en línea, la diversión familiar está siempre a un clic!"
+  }
 }

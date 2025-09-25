@@ -40,5 +40,124 @@
   "termsSubtitle": "Please read our terms carefully to understand your rights and responsibilities while using our services.",
   "termsCTA": "By playing, you agree to our terms",
   "termsCTAText": "We are committed to providing a fair, transparent, and enjoyable experience for all our players.",
-  "termsCTAButton": "Play Ludo King Now"
+  "termsCTAButton": "Play Ludo King Now",
+
+  "hero": {
+    "title1": "Play Ludo King Online for Free!",
+    "desc1": "Step into the colorful world of <strong>Ludo King</strong>—the classic family board game loved by millions. Roll the dice, move your tokens, and race your opponents to be the first to bring all your pieces home. With its simple rules and fun design, it’s a perfect game for kids, friends, and families to enjoy together.",
+    "desc2": "Whether you’re new to the game or already a Ludo champion, every round brings new excitement, strategy, and surprises. Play solo against the computer or challenge your friends for endless fun!",
+    "title2": "What Is Ludo King?",
+    "desc3": "<strong>Ludo King</strong> is an online version of the traditional board game played with a dice and four tokens for each player. Your goal is to move all four tokens around the board and into the home area before your opponents do. Watch out—if another player lands on your token, you’ll be sent back to start!",
+    "desc4": "The digital version keeps the same classic rules but adds bright, colorful designs and smooth animations. Play it directly in your browser—no downloads, no setup, just click and start rolling the dice.",
+    "title3": "Why Choose Ludo King?",
+    "desc5": "Ludo King is one of the best free online board games for kids and families. It’s easy to learn, exciting to play, and a great way to practice patience, focus, and strategy. With just a click or tap, you can roll the dice and guide your tokens around the board.",
+    "desc6": "Its simple design, multiplayer option, and smooth gameplay make it perfect for playing anytime and anywhere—at home, in school breaks, or while traveling. No matter where you are, Ludo King brings people together for fun and friendly competition.",
+    "desc7": "With new surprises every match and colorful graphics, Ludo King makes screen time both entertaining and social."
+  },
+  "howToPlay": {
+    "title": "How to Play Ludo King",
+    "intro": "Welcome to <strong>Ludo King</strong>! It’s the online version of the classic family board game that’s fun, colorful, and easy to learn. Your goal is to move all four of your tokens around the board and safely into your home area before your opponents do. Follow these simple steps to master Ludo King:",
+    "setupTitle": "1. Set Up the Board",
+    "setup": [
+      "Each player chooses a color (red, blue, green, or yellow).",
+      "Each player starts with four tokens placed in their starting area.",
+      "The board has a square path with safe spots and shortcuts leading to the home column."
+    ],
+    "diceTitle": "2. Rolling the Dice",
+    "dice": [
+      "Players take turns rolling the dice.",
+      "You must roll a <strong>6</strong> to bring a token onto the board from your starting area.",
+      "If you roll a 6, you get an extra turn—keep rolling until you don’t land on a 6!"
+    ],
+    "moveTitle": "3. Moving Your Tokens",
+    "move": [
+      "Click or tap a token to move it forward according to your dice roll.",
+      "If you land on a square occupied by an opponent’s token, you send them back to their starting area.",
+      "Safe zones (marked squares) protect your token from being captured."
+    ],
+    "homeTitle": "4. Reaching the Home Area",
+    "home": "Once your tokens travel around the board, guide them into your color’s home column. You must roll the exact number needed to reach the final square.",
+    "winTitle": "5. Winning the Game",
+    "win": "The first player to bring all four tokens safely into the home area wins the game!",
+    "conclusion": "<strong>Ludo King</strong> is all about luck, smart choices, and a little strategy. Use your dice rolls wisely, block your opponents when you can, and race your way to victory!"
+  },
+  "controls": {
+    "title": "Controls for Ludo King",
+    "intro": "Playing <strong>Ludo King</strong> online is simple and fun for everyone!",
+    "mouseTouch": "<strong>Mouse or Touch:</strong> Click or tap on the dice to roll. Then, select your token and tap again to move it according to the dice number.",
+    "keyboard": "<strong>Keyboard Shortcuts:</strong> Use the arrow keys (← ↑ ↓ →) to highlight tokens, and press <strong>Enter</strong> to move the selected token. Press the <strong>Space bar</strong> to roll the dice quickly.",
+    "restart": "<strong>Quick Restart:</strong> Want to begin a new match? Press <strong>R</strong> to reset the board and start fresh.",
+    "conclusion": "No downloads or installations needed—just open your browser and enjoy the classic family board game. Perfect for practicing strategy, patience, and having fun with friends!"
+  },
+  "tips": {
+    "title": "Tips and Tricks for Ludo King",
+    "intro": "Hey, little dice champions! Want to become a Ludo King master and enjoy every match with friends or family? Try these clever yet simple tricks—no downloads needed, just instant play in your browser!",
+    "tip1Title": "1. Bring Out All Your Tokens Early",
+    "tip1": "Rolling a six lets you free a token from your base. Try to bring all four tokens onto the board as soon as possible—this gives you more moves and keeps the game exciting.",
+    "tip2Title": "2. Use Safe Zones Wisely",
+    "tip2": "Some squares on the board are safe zones where your tokens can’t be captured. Park your tokens there if you need to block opponents or wait for the perfect dice roll.",
+    "tip3Title": "3. Don’t Rush Just One Token",
+    "tip3": "Spreading your moves across different tokens gives you more options. If you only focus on one piece, you might get stuck or miss chances to attack.",
+    "tip4Title": "4. Watch Your Opponents",
+    "tip4": "Keep an eye on where other players’ tokens are. If they’re close, move carefully to avoid being sent back to start—or take the chance to knock them out first!",
+    "tip5Title": "5. Plan for the Perfect Finish",
+    "tip5": "You’ll need the exact number on the dice to enter the home area. Try to move tokens close to the finish line and save extra rolls for a perfect entry.",
+    "conclusion": "Follow these friendly tips, roll smart, and watch your Ludo King skills grow. Have fun racing, blocking, and celebrating every victory with friends!"
+  },
+  "features": {
+    "title": "Features of Ludo King",
+    "content": "Ludo King is a free online board game that brings friends and families together. With its easy tap-and-roll controls, players of all ages can roll the dice, move tokens, and race to the finish line. The bright, colorful board design and lively animations make every match exciting, while cheerful sound effects add fun to every move. Whether you’re playing a quick solo round against the computer or challenging your friends in multiplayer mode, there’s always a new game waiting. And because Ludo King runs directly in your web browser, there’s no need to download or install anything. Just click “Play,” roll the dice, and enjoy this timeless classic anytime, anywhere."
+  },
+  "otherGames": {
+    "title": "Other Games",
+    "unoTitle": "Play UNO Online for Free!",
+    "unoDesc": "Jump into a thrilling world of colorful cards and clever strategies as you challenge your friends in this exciting game of UNO.",
+    "fruitBucketTitle": "Fruit Bucket",
+    "fruitBucketDesc": "Step into a bright, colorful world in Fruit Bucket, a free online game for kids and families. It’s easy to play and packed with fun.",
+    "superMarioTitle": "Super Mario Bros",
+    "superMarioDesc": "Step into a colourful, vibrant world and join Mario and Luigi on an exciting adventure full of fun and surprises.",
+    "moreGamesTitle": "More Games Like Ludo King",
+    "moreGamesIntro": "Love rolling dice and racing to the finish line? If you enjoy <strong>Ludo King</strong>, then you’ll definitely want to try these fun browser games. No downloads needed—just open your browser and start playing with friends and family:",
+    "diceDashTitle": "Dice Dash",
+    "diceDashDesc": "Roll the dice and move across a colorful board while avoiding tricky obstacles. Speed boosts and surprise shortcuts make every round exciting!",
+    "castleRaceTitle": "Castle Race",
+    "castleRaceDesc": "Compete with friends as knights racing toward the castle gates. Use smart moves to block your opponents and reach victory first.",
+    "treasureLudoTitle": "Treasure Ludo",
+    "treasureLudoDesc": "Explore a magical board filled with hidden treasures and traps. Collect gems as you race your tokens home and unlock special power-ups along the way.",
+    "conclusion": "Gather your friends, roll the dice, and discover which board adventure will become your next favorite!"
+  },
+  "unblocked": {
+    "title": "Ludo King Unblocked",
+    "intro1": "Jump into the exciting world of <strong>Ludo King Unblocked</strong>—no downloads, no limits, just pure fun! Perfect for kids playing on school or library computers, this online version loads instantly and can be enjoyed anywhere you have internet access. Your goal? Roll the dice, move your tokens around the board, and be the first to bring all four safely home.",
+    "intro2": "Each game brings a brand-new race full of surprises, strategy, and friendly competition. Ludo King Unblocked keeps your mind sharp while delivering nonstop entertainment. Best of all, it’s completely free and always ready to play, turning any break into an epic dice-rolling adventure. Are you ready to prove you’re the true Ludo champion? Click now and start playing!"
+  },
+
+  "faq": {
+    "title": "Frequently Asked Questions – Ludo King",
+    "q1": "Do I need to install anything to play Ludo King?",
+    "a1": "No installation is needed! Ludo King runs directly in your web browser. Just click \"Play\" and enjoy the classic board game instantly.",
+    "q2": "Can I play Ludo King on my phone, tablet, or computer?",
+    "a2": "Yes! Ludo King works perfectly on all devices—smartphones, tablets, laptops, and desktops. Play anytime, anywhere.",
+    "q3": "Does it cost money to play Ludo King?",
+    "a3": "Not at all! Ludo King online is completely free. There are no hidden charges—just roll the dice and have fun.",
+    "q4": "Is Ludo King a good game for kids and families?",
+    "a4": "Definitely! With simple rules and colorful gameplay, Ludo King is ideal for kids, parents, and friends to enjoy together in a fun and safe way.",
+    "q5": "How do I start a quick match?",
+    "a5": "Click \"New Game,\" roll the dice, and move your tokens around the board. Your goal is to bring all four tokens safely to the home area before your opponents. It’s easy, exciting, and full of surprises!"
+  },
+
+  "online": {
+    "title": "Ludo King Online",
+    "intro1": "<strong>Ludo King Online</strong> is a fun and colorful board game that everyone can enjoy! You can start playing instantly without downloads or sign-ups. Just open our website on your computer, tablet, or phone, tap \"Play,\" and roll the dice to begin the adventure.",
+    "intro2": "Your mission is simple: move all four of your tokens around the board and safely into your home area before your opponents do. This free online board game is perfect for kids, friends, and families—it combines luck, smart choices, and friendly competition into every match!",
+    "title2": "Play Ludo King Board Game Online",
+    "intro3": "Do you love classic family games? With Ludo King and its exciting variations, you can enjoy hours of entertainment right in your browser. No download required—just visit our site, click \"Play,\" and let the fun begin!",
+    "intro4": "Each game brings colorful designs, smooth animations, and new strategies to explore. Challenge your friends in multiplayer mode or test your skills against the computer. Ready to play Ludo King online? Gather your family, roll the dice, and race to victory!"
+  },
+
+  "platform": {
+    "title": "Platform Compatibility",
+    "subtitle": "Play Ludo King Online on Any Device",
+    "content": "<strong>Ludo King</strong> is a classic board game you can enjoy on any device—desktop, laptop, tablet, or smartphone. There’s no need to download or install anything. Just open your web browser, visit the game page, and roll the dice to start playing instantly. The board automatically adapts to your screen size, so tokens and paths are always clear and easy to follow whether you’re on a big monitor or a small phone screen. Enjoy smooth gameplay, colorful animations, and exciting matches at home, while traveling, or during a break. With Ludo King online, family fun is always just one click away!"
+  }
 }

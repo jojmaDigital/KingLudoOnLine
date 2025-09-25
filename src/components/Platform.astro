@@ -1,8 +1,13 @@
+---
+// src/components/Platform.astro
+const { dict } = Astro.props;
+---
+
 <section class="max-w-6xl mx-auto px-6 text-center" >
  &nbsp;
-  <h2 class="text-3xl font-extrabold text-center mb-12 flex items-center justify-center gap-2">Platform Compatibility</h2>
+  <h2 class="text-3xl font-extrabold text-center mb-12 flex items-center justify-center gap-2">{dict.platform.title}</h2>
 
-  <p>Play Ludo King Online on Any Device</p>
+  <p>{dict.platform.subtitle}</p>
 
-  <p><strong>Ludo King</strong> is a classic board game you can enjoy on any device—desktop, laptop, tablet, or smartphone. There’s no need to download or install anything. Just open your web browser, visit the game page, and roll the dice to start playing instantly. The board automatically adapts to your screen size, so tokens and paths are always clear and easy to follow whether you’re on a big monitor or a small phone screen. Enjoy smooth gameplay, colorful animations, and exciting matches at home, while traveling, or during a break. With Ludo King online, family fun is always just one click away!</p>
+  <p set:html={dict.platform.content}></p>
 </section>

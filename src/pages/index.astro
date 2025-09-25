@@ -1,11 +1,22 @@
----
-export const prerender = false;
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Redirecting...</title>
+</head>
+<body>
+  <script>
+    // Supported languages
+    const supportedLangs = ['en', 'fr', 'es'];
 
-import { resolveLang } from "../lib/i18n";
+    // Get browser language
+    const browserLang = navigator.language || 'en';
+    const lang = browserLang.split('-')[0]; // e.g., 'en' from 'en-US'
 
-const acceptLang = Astro.request.headers.get("accept-language") || "";
-const browserLang = acceptLang.split(",")[0].split("-")[0];
-const targetLang = resolveLang(browserLang);
+    // Check if supported, else default to 'en'
+    const targetLang = supportedLangs.includes(lang) ? lang : 'en';
 
-Astro.redirect(`/${targetLang}/`);
----
+    // Redirect
+    window.location.href = `/${targetLang}/`;
+  </script>
+</body>
+</html>

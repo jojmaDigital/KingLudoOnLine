@@ -1,23 +1,28 @@
+---
+// src/components/Tips.astro
+const { dict } = Astro.props;
+---
+
 <section class="max-w-6xl mx-auto px-6 text-center" >
      &nbsp;
-  <h2 class="text-3xl font-extrabold text-center mb-12 flex items-center justify-center gap-2" >Tips and Tricks for Ludo King</h2>
+  <h2 class="text-3xl font-extrabold text-center mb-12 flex items-center justify-center gap-2" >{dict.tips.title}</h2>
 
-  <p>Hey, little dice champions! Want to become a Ludo King master and enjoy every match with friends or family? Try these clever yet simple tricks—no downloads needed, just instant play in your browser!</p>
+  <p set:html={dict.tips.intro}></p>
 &nbsp;
-  <h2 class="text-3xl font-extrabold text-center mb-12 flex items-center justify-center gap-2">1. Bring Out All Your Tokens Early</h2>
-  <p>Rolling a six lets you free a token from your base. Try to bring all four tokens onto the board as soon as possible—this gives you more moves and keeps the game exciting.</p>
+  <h2 class="text-3xl font-extrabold text-center mb-12 flex items-center justify-center gap-2">{dict.tips.tip1Title}</h2>
+  <p set:html={dict.tips.tip1}></p>
 &nbsp;
-  <h2 class="text-3xl font-extrabold text-center mb-12 flex items-center justify-center gap-2">2. Use Safe Zones Wisely</h2>
-  <p>Some squares on the board are safe zones where your tokens can’t be captured. Park your tokens there if you need to block opponents or wait for the perfect dice roll.</p>
+  <h2 class="text-3xl font-extrabold text-center mb-12 flex items-center justify-center gap-2">{dict.tips.tip2Title}</h2>
+  <p set:html={dict.tips.tip2}></p>
 &nbsp;
-  <h2>3. Don’t Rush Just One Token</h2>
-  <p>Spreading your moves across different tokens gives you more options. If you only focus on one piece, you might get stuck or miss chances to attack.</p>
+  <h2 class="text-3xl font-extrabold text-center mb-12 flex items-center justify-center gap-2">{dict.tips.tip3Title}</h2>
+  <p set:html={dict.tips.tip3}></p>
 &nbsp;
-  <h2 class="text-3xl font-extrabold text-center mb-12 flex items-center justify-center gap-2">4. Watch Your Opponents</h2>
-  <p>Keep an eye on where other players’ tokens are. If they’re close, move carefully to avoid being sent back to start—or take the chance to knock them out first!</p>
+  <h2 class="text-3xl font-extrabold text-center mb-12 flex items-center justify-center gap-2">{dict.tips.tip4Title}</h2>
+  <p set:html={dict.tips.tip4}></p>
 &nbsp;
-  <h2>5. Plan for the Perfect Finish</h2>
-  <p>You’ll need the exact number on the dice to enter the home area. Try to move tokens close to the finish line and save extra rolls for a perfect entry.</p>
+  <h2 class="text-3xl font-extrabold text-center mb-12 flex items-center justify-center gap-2">{dict.tips.tip5Title}</h2>
+  <p set:html={dict.tips.tip5}></p>
 
-  <p>Follow these friendly tips, roll smart, and watch your Ludo King skills grow. Have fun racing, blocking, and celebrating every victory with friends!</p>
+  <p set:html={dict.tips.conclusion}></p>
 </section>

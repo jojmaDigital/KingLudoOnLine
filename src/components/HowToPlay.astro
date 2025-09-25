@@ -1,34 +1,33 @@
+---
+// src/components/HowToPlay.astro
+const { dict } = Astro.props;
+---
+
 <section class="max-w-6xl mx-auto px-6 text-center" >
-  <h1  class="text-3xl font-extrabold text-center mb-12 flex items-center justify-center gap-2">How to Play Ludo King</h2>
+  <h1  class="text-3xl font-extrabold text-center mb-12 flex items-center justify-center gap-2">{dict.howToPlay.title}</h1>
 
-  <p>Welcome to <strong>Ludo King</strong>! It’s the online version of the classic family board game that’s fun, colorful, and easy to learn. Your goal is to move all four of your tokens around the board and safely into your home area before your opponents do. Follow these simple steps to master Ludo King:</p>
+  <p set:html={dict.howToPlay.intro}></p>
 
-  <h2  class="text-3xl font-extrabold text-center mb-12 flex items-center justify-center gap-2">1. Set Up the Board</h2>
+  <h2  class="text-3xl font-extrabold text-center mb-12 flex items-center justify-center gap-2">{dict.howToPlay.setupTitle}</h2>
   <ul>
-    <li>Each player chooses a color (red, blue, green, or yellow).</li>
-    <li>Each player starts with four tokens placed in their starting area.</li>
-    <li>The board has a square path with safe spots and shortcuts leading to the home column.</li>
+    {dict.howToPlay.setup.map((item: string) => <li set:html={item}></li>)}
   </ul>
  &nbsp;
-  <h2  class="text-3xl font-extrabold text-center mb-12 flex items-center justify-center gap-2" >2. Rolling the Dice</h2>
+  <h2  class="text-3xl font-extrabold text-center mb-12 flex items-center justify-center gap-2" >{dict.howToPlay.diceTitle}</h2>
   <ul>
-    <li>Players take turns rolling the dice.</li>
-    <li>You must roll a <strong>6</strong> to bring a token onto the board from your starting area.</li>
-    <li>If you roll a 6, you get an extra turn—keep rolling until you don’t land on a 6!</li>
+    {dict.howToPlay.dice.map((item: string) => <li set:html={item}></li>)}
   </ul>
  &nbsp;
-  <h2  class="text-3xl font-extrabold text-center mb-12 flex items-center justify-center gap-2">3. Moving Your Tokens</h2>
+  <h2  class="text-3xl font-extrabold text-center mb-12 flex items-center justify-center gap-2">{dict.howToPlay.moveTitle}</h2>
   <ul>
-    <li>Click or tap a token to move it forward according to your dice roll.</li>
-    <li>If you land on a square occupied by an opponent’s token, you send them back to their starting area.</li>
-    <li>Safe zones (marked squares) protect your token from being captured.</li>
+    {dict.howToPlay.move.map((item: string) => <li set:html={item}></li>)}
   </ul>
  &nbsp;
-  <h2  class="text-3xl font-extrabold text-center mb-12 flex items-center justify-center gap-2">4. Reaching the Home Area</h2>
-  <p>Once your tokens travel around the board, guide them into your color’s home column. You must roll the exact number needed to reach the final square.</p>
+  <h2  class="text-3xl font-extrabold text-center mb-12 flex items-center justify-center gap-2">{dict.howToPlay.homeTitle}</h2>
+  <p set:html={dict.howToPlay.home}></p>
 &nbsp;
-  <h2  class="text-3xl font-extrabold text-center mb-12 flex items-center justify-center gap-2">5. Winning the Game</h2>
-  <p>The first player to bring all four tokens safely into the home area wins the game!</p>
+  <h2  class="text-3xl font-extrabold text-center mb-12 flex items-center justify-center gap-2">{dict.howToPlay.winTitle}</h2>
+  <p set:html={dict.howToPlay.win}></p>
 
-  <p><strong>Ludo King</strong> is all about luck, smart choices, and a little strategy. Use your dice rolls wisely, block your opponents when you can, and race your way to victory!</p>
+  <p set:html={dict.howToPlay.conclusion}></p>
 </section>

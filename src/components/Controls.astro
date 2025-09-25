@@ -1,15 +1,20 @@
+---
+// src/components/Controls.astro
+const { dict } = Astro.props;
+---
+
 <section class="max-w-6xl mx-auto px-6 text-center" >
    &nbsp;
   <h2 class="text-3xl font-extrabold text-center mb-12 flex items-center justify-center gap-2">
-      Controls for Ludo King
+      {dict.controls.title}
     </h2>
-  <p>Playing <strong>Ludo King</strong> online is simple and fun for everyone!</p>
+  <p set:html={dict.controls.intro}></p>
   
-  <p><strong>Mouse or Touch:</strong> Click or tap on the dice to roll. Then, select your token and tap again to move it according to the dice number.</p>
+  <p set:html={dict.controls.mouseTouch}></p>
   
-  <p><strong>Keyboard Shortcuts:</strong> Use the arrow keys (← ↑ ↓ →) to highlight tokens, and press <strong>Enter</strong> to move the selected token. Press the <strong>Space bar</strong> to roll the dice quickly.</p>
+  <p set:html={dict.controls.keyboard}></p>
   
-  <p><strong>Quick Restart:</strong> Want to begin a new match? Press <strong>R</strong> to reset the board and start fresh.</p>
+  <p set:html={dict.controls.restart}></p>
   
-  <p>No downloads or installations needed—just open your browser and enjoy the classic family board game. Perfect for practicing strategy, patience, and having fun with friends!</p>
+  <p set:html={dict.controls.conclusion}></p>
 </section>

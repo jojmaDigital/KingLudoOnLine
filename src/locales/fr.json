@@ -40,5 +40,124 @@
   "termsSubtitle": "Veuillez lire attentivement nos conditions pour comprendre vos droits et responsabilités lors de l’utilisation de nos services.",
   "termsCTA": "En jouant, vous acceptez nos conditions",
   "termsCTAText": "Nous nous engageons à offrir une expérience équitable, transparente et agréable à tous nos joueurs.",
-  "termsCTAButton": "Jouez à Ludo King maintenant"
+  "termsCTAButton": "Jouez à Ludo King maintenant",
+
+  "hero": {
+    "title1": "Jouez à Ludo King en Ligne Gratuitement !",
+    "desc1": "Plongez dans le monde coloré de <strong>Ludo King</strong> — le jeu de plateau familial classique adoré par des millions de personnes. Lancez le dé, déplacez vos pions et courez devant vos adversaires pour ramener toutes vos pièces à la maison en premier. Avec ses règles simples et son design amusant, c’est le jeu parfait pour les enfants, les amis et les familles à apprécier ensemble.",
+    "desc2": "Que vous soyez nouveau dans le jeu ou déjà un champion de Ludo, chaque manche apporte de nouvelles émotions, stratégies et surprises. Jouez seul contre l’ordinateur ou défiez vos amis pour des heures de plaisir sans fin !",
+    "title2": "Qu'est-ce que Ludo King ?",
+    "desc3": "<strong>Ludo King</strong> est une version en ligne du jeu de plateau traditionnel joué avec un dé et quatre pions par joueur. Votre objectif est de déplacer vos quatre pions autour du plateau et dans la zone d'arrivée avant vos adversaires. Attention — si un autre joueur atterrit sur votre pion, vous serez renvoyé au départ !",
+    "desc4": "La version numérique conserve les mêmes règles classiques mais ajoute des designs colorés et des animations fluides. Jouez directement dans votre navigateur — pas de téléchargements, pas de configuration, cliquez simplement et commencez à lancer le dé.",
+    "title3": "Pourquoi Choisir Ludo King ?",
+    "desc5": "Ludo King est l'un des meilleurs jeux de plateau en ligne gratuits pour les enfants et les familles. Il est facile à apprendre, excitant à jouer et une excellente façon de pratiquer la patience, la concentration et la stratégie. Avec un simple clic ou une tape, vous pouvez lancer le dé et guider vos pions autour du plateau.",
+    "desc6": "Son design simple, son option multijoueur et son gameplay fluide le rendent parfait pour jouer n'importe quand et n'importe où — à la maison, pendant les pauses à l'école ou en voyage. Où que vous soyez, Ludo King rassemble les gens pour du plaisir et une compétition amicale.",
+    "desc7": "Avec de nouvelles surprises à chaque manche et des graphismes colorés, Ludo King rend le temps d'écran à la fois divertissant et social."
+  },
+  "howToPlay": {
+    "title": "Comment Jouer à Ludo King",
+    "intro": "Bienvenue sur <strong>Ludo King</strong> ! C’est la version en ligne du jeu de plateau familial classique qui est amusant, coloré et facile à apprendre. Votre objectif est de déplacer vos quatre pions autour du plateau et de les amener en toute sécurité dans votre zone d'arrivée avant vos adversaires. Suivez ces étapes simples pour maîtriser Ludo King :",
+    "setupTitle": "1. Configuration du Plateau",
+    "setup": [
+      "Chaque joueur choisit une couleur (rouge, bleu, vert ou jaune).",
+      "Chaque joueur commence avec quatre pions placés dans sa zone de départ.",
+      "Le plateau a un chemin carré avec des zones sûres et des raccourcis menant à la colonne d'arrivée."
+    ],
+    "diceTitle": "2. Lancer le Dé",
+    "dice": [
+      "Les joueurs se relaient pour lancer le dé.",
+      "Vous devez lancer un <strong>6</strong> pour amener un pion sur le plateau depuis votre zone de départ.",
+      "Si vous lancez un 6, vous obtenez un tour supplémentaire — continuez à lancer jusqu'à ce que vous n'obteniez pas un 6 !"
+    ],
+    "moveTitle": "3. Déplacer Vos Pions",
+    "move": [
+      "Cliquez ou tapez sur un pion pour le déplacer en avant selon votre lancer de dé.",
+      "Si vous atterrissez sur une case occupée par un pion adverse, vous les renvoyez à leur zone de départ.",
+      "Les zones sûres (cases marquées) protègent votre pion de la capture."
+    ],
+    "homeTitle": "4. Atteindre la Zone d'Arrivée",
+    "home": "Une fois que vos pions ont fait le tour du plateau, guidez-les dans votre colonne d'arrivée colorée. Vous devez lancer le nombre exact nécessaire pour atteindre la case finale.",
+    "winTitle": "5. Gagner la Partie",
+    "win": "Le premier joueur à amener ses quatre pions en toute sécurité dans la zone d'arrivée gagne la partie !",
+    "conclusion": "<strong>Ludo King</strong> est une question de chance, de choix intelligents et d'un peu de stratégie. Utilisez vos lancers de dé avec sagesse, bloquez vos adversaires quand vous le pouvez, et courez vers la victoire !"
+  },
+  "controls": {
+    "title": "Contrôles pour Ludo King",
+    "intro": "Jouer à <strong>Ludo King</strong> en ligne est simple et amusant pour tout le monde !",
+    "mouseTouch": "<strong>Souris ou Toucher :</strong> Cliquez ou touchez le dé pour le lancer. Ensuite, sélectionnez votre pion et touchez à nouveau pour le déplacer selon le nombre du dé.",
+    "keyboard": "<strong>Raccourcis Clavier :</strong> Utilisez les touches fléchées (← ↑ ↓ →) pour surligner les pions, et appuyez sur <strong>Entrée</strong> pour déplacer le pion sélectionné. Appuyez sur la <strong>Barre d'espace</strong> pour lancer le dé rapidement.",
+    "restart": "<strong>Redémarrage Rapide :</strong> Vous voulez commencer une nouvelle partie ? Appuyez sur <strong>R</strong> pour réinitialiser le plateau et recommencer.",
+    "conclusion": "Aucun téléchargement ou installation nécessaire — ouvrez simplement votre navigateur et profitez du jeu de plateau familial classique. Parfait pour pratiquer la stratégie, la patience et s'amuser avec des amis !"
+  },
+  "tips": {
+    "title": "Astuces et Astuces pour Ludo King",
+    "intro": "Salut, petits champions des dés ! Vous voulez devenir un maître de Ludo King et profiter de chaque match avec des amis ou la famille ? Essayez ces astuces intelligentes mais simples — pas de téléchargements nécessaires, juste du jeu instantané dans votre navigateur !",
+    "tip1Title": "1. Sortez Tous Vos Pions Tôt",
+    "tip1": "Lancer un six vous permet de libérer un pion de votre base. Essayez de mettre les quatre pions sur le plateau le plus tôt possible — cela vous donne plus de mouvements et garde le jeu excitant.",
+    "tip2Title": "2. Utilisez les Zones Sûres Sagement",
+    "tip2": "Certaines cases sur le plateau sont des zones sûres où vos pions ne peuvent pas être capturés. Garez vos pions là si vous devez bloquer les adversaires ou attendre le lancer de dé parfait.",
+    "tip3Title": "3. Ne Vous Précipitez Pas Sur Un Seul Pion",
+    "tip3": "Répartir vos mouvements sur différents pions vous donne plus d'options. Si vous vous concentrez seulement sur une pièce, vous pourriez vous coincer ou manquer des chances d'attaquer.",
+    "tip4Title": "4. Surveillez Vos Adversaires",
+    "tip4": "Gardez un œil sur l'endroit où se trouvent les pions des autres joueurs. S'ils sont proches, bougez prudemment pour éviter d'être renvoyé au départ — ou saisissez l'occasion de les éliminer en premier !",
+    "tip5Title": "5. Planifiez la Fin Parfaite",
+    "tip5": "Vous aurez besoin du nombre exact sur le dé pour entrer dans la zone d'arrivée. Essayez de déplacer les pions près de la ligne d'arrivée et gardez des lancers supplémentaires pour une entrée parfaite.",
+    "conclusion": "Suivez ces astuces amicales, lancez intelligemment, et regardez vos compétences en Ludo King grandir. Amusez-vous à courir, bloquer et célébrer chaque victoire avec des amis !"
+  },
+  "features": {
+    "title": "Fonctionnalités de Ludo King",
+    "content": "Ludo King est un jeu de plateau en ligne gratuit qui rassemble amis et familles. Avec ses contrôles faciles de tap-and-roll, les joueurs de tous âges peuvent lancer les dés, déplacer les pions et courir vers la ligne d'arrivée. Le design du plateau lumineux et coloré et les animations vives rendent chaque match excitant, tandis que les effets sonores joyeux ajoutent du plaisir à chaque mouvement. Que vous jouiez une partie rapide en solo contre l'ordinateur ou que vous défiez vos amis en mode multijoueur, il y a toujours une nouvelle partie qui vous attend. Et comme Ludo King s'exécute directement dans votre navigateur web, il n'y a pas besoin de télécharger ou d'installer quoi que ce soit. Cliquez simplement sur « Jouer », lancez les dés et profitez de ce classique intemporel n'importe quand, n'importe où."
+  },
+  "otherGames": {
+    "title": "Autres Jeux",
+    "unoTitle": "Jouez à UNO en ligne gratuitement !",
+    "unoDesc": "Plongez dans un monde passionnant de cartes colorées et de stratégies intelligentes alors que vous défiez vos amis dans ce jeu excitant d'UNO.",
+    "fruitBucketTitle": "Fruit Bucket",
+    "fruitBucketDesc": "Entrez dans un monde lumineux et coloré dans Fruit Bucket, un jeu en ligne gratuit pour enfants et familles. C'est facile à jouer et plein de plaisir.",
+    "superMarioTitle": "Super Mario Bros",
+    "superMarioDesc": "Entrez dans un monde coloré et vibrant et rejoignez Mario et Luigi dans une aventure excitante pleine de plaisir et de surprises.",
+    "moreGamesTitle": "Plus de Jeux Comme Ludo King",
+    "moreGamesIntro": "Vous aimez lancer les dés et courir vers la ligne d'arrivée ? Si vous aimez <strong>Ludo King</strong>, alors vous voudrez certainement essayer ces jeux de navigateur amusants. Pas de téléchargements nécessaires — ouvrez simplement votre navigateur et commencez à jouer avec amis et famille :",
+    "diceDashTitle": "Dice Dash",
+    "diceDashDesc": "Lancez les dés et déplacez-vous sur un plateau coloré tout en évitant les obstacles délicats. Les boosts de vitesse et les raccourcis surprises rendent chaque tour excitant !",
+    "castleRaceTitle": "Castle Race",
+    "castleRaceDesc": "Compétez avec des amis en tant que chevaliers courant vers les portes du château. Utilisez des mouvements intelligents pour bloquer vos adversaires et atteindre la victoire en premier.",
+    "treasureLudoTitle": "Treasure Ludo",
+    "treasureLudoDesc": "Explorez un plateau magique rempli de trésors cachés et de pièges. Collectez des gemmes en faisant courir vos pions à la maison et débloquez des power-ups spéciaux en chemin.",
+    "conclusion": "Rassemblez vos amis, lancez les dés, et découvrez quelle aventure de plateau deviendra votre prochaine favorite !"
+  },
+  "unblocked": {
+    "title": "Ludo King Débloqué",
+    "intro1": "Plongez dans le monde excitant de <strong>Ludo King Débloqué</strong> — pas de téléchargements, pas de limites, juste du plaisir pur ! Parfait pour les enfants jouant sur des ordinateurs scolaires ou de bibliothèque, cette version en ligne se charge instantanément et peut être appréciée partout où vous avez accès à internet. Votre objectif ? Lancez les dés, déplacez vos pions autour du plateau, et soyez le premier à ramener les quatre en toute sécurité à la maison.",
+    "intro2": "Chaque jeu apporte une nouvelle course pleine de surprises, de stratégie et de compétition amicale. Ludo King Débloqué garde votre esprit vif tout en offrant un divertissement non-stop. Le meilleur de tout, c'est complètement gratuit et toujours prêt à jouer, transformant n'importe quelle pause en une aventure épique de lancer de dés. Êtes-vous prêt à prouver que vous êtes le vrai champion de Ludo ? Cliquez maintenant et commencez à jouer !"
+  },
+
+  "faq": {
+    "title": "Questions Fréquemment Posées – Ludo King",
+    "q1": "Dois-je installer quelque chose pour jouer à Ludo King ?",
+    "a1": "Aucune installation n'est nécessaire ! Ludo King fonctionne directement dans votre navigateur web. Cliquez simplement sur « Jouer » et profitez du jeu de plateau classique instantanément.",
+    "q2": "Puis-je jouer à Ludo King sur mon téléphone, tablette ou ordinateur ?",
+    "a2": "Oui ! Ludo King fonctionne parfaitement sur tous les appareils — smartphones, tablettes, ordinateurs portables et de bureau. Jouez n'importe quand, n'importe où.",
+    "q3": "Est-ce que ça coûte de l'argent pour jouer à Ludo King ?",
+    "a3": "Pas du tout ! Ludo King en ligne est complètement gratuit. Il n'y a pas de frais cachés — lancez simplement les dés et amusez-vous.",
+    "q4": "Ludo King est-il un bon jeu pour les enfants et les familles ?",
+    "a4": "Absolument ! Avec ses règles simples et son gameplay coloré, Ludo King est idéal pour les enfants, les parents et les amis à apprécier ensemble de manière amusante et sûre.",
+    "q5": "Comment démarrer une partie rapide ?",
+    "a5": "Cliquez sur « Nouvelle Partie », lancez les dés, et déplacez vos pions autour du plateau. Votre objectif est d'amener vos quatre pions en toute sécurité dans la zone d'arrivée avant vos adversaires. C'est facile, excitant et plein de surprises !"
+  },
+
+  "online": {
+    "title": "Ludo King en Ligne",
+    "intro1": "<strong>Ludo King en Ligne</strong> est un jeu de plateau amusant et coloré que tout le monde peut apprécier ! Vous pouvez commencer à jouer instantanément sans téléchargements ou inscriptions. Ouvrez simplement notre site web sur votre ordinateur, tablette ou téléphone, appuyez sur « Jouer », et lancez les dés pour commencer l'aventure.",
+    "intro2": "Votre mission est simple : déplacer vos quatre pions autour du plateau et les amener en toute sécurité dans votre zone d'arrivée avant vos adversaires. Ce jeu de plateau en ligne gratuit est parfait pour les enfants, les amis et les familles — il combine chance, choix intelligents et compétition amicale dans chaque match !",
+    "title2": "Jouer au Jeu de Plateau Ludo King en Ligne",
+    "intro3": "Vous aimez les jeux de société classiques ? Avec Ludo King et ses variations excitantes, vous pouvez profiter d'heures de divertissement directement dans votre navigateur. Aucun téléchargement requis — visitez simplement notre site, cliquez sur « Jouer », et laissez le plaisir commencer !",
+    "intro4": "Chaque jeu apporte des designs colorés, des animations fluides et de nouvelles stratégies à explorer. Défiez vos amis en mode multijoueur ou testez vos compétences contre l'ordinateur. Prêt à jouer à Ludo King en ligne ? Rassemblez votre famille, lancez les dés, et courez vers la victoire !"
+  },
+
+  "platform": {
+    "title": "Compatibilité des Plateformes",
+    "subtitle": "Jouez à Ludo King en Ligne sur N'importe Quel Appareil",
+    "content": "<strong>Ludo King</strong> est un jeu de plateau classique que vous pouvez apprécier sur n'importe quel appareil — ordinateur de bureau, ordinateur portable, tablette ou smartphone. Il n'y a pas besoin de télécharger ou d'installer quoi que ce soit. Ouvrez simplement votre navigateur web, visitez la page du jeu, et lancez les dés pour commencer à jouer instantanément. Le plateau s'adapte automatiquement à la taille de votre écran, de sorte que les pions et les chemins soient toujours clairs et faciles à suivre, que ce soit sur un grand moniteur ou un petit écran de téléphone. Profitez d'un gameplay fluide, d'animations colorées et de matches excitants à la maison, en voyage ou pendant une pause. Avec Ludo King en ligne, le plaisir familial est toujours à un clic !"
+  }
 }

@@ -1,10 +1,12 @@
 ---
 // src/components/OtherGames.astro
+const { dict } = Astro.props;
 ---
+
 <section class="max-w-6xl mx-auto px-6 text-center">
   <div class="max-w-6xl mx-auto px-6">
     <h2 class="text-3xl font-extrabold text-center mb-12 flex items-center justify-center gap-2">
-      🎮 Other Games
+      🎮 {dict.otherGames.title}
     </h2>
 
     <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-10">
@@ -18,8 +20,8 @@
           />
         </div>
         <div class="p-5 text-center">
-          <h3 class="font-bold text-lg">Play UNO Online for Free!</h3>
-          <p class="text-gray-600 text-sm mb-5">Jump into a thrilling world of colorful cards and clever strategies as you challenge your friends in this exciting game of UNO.</p>
+          <h3 class="font-bold text-lg">{dict.otherGames.unoTitle}</h3>
+          <p class="text-gray-600 text-sm mb-5">{dict.otherGames.unoDesc}</p>
           <a href="https://retrosgame.com/uno/" class="inline-block px-6 py-2 bg-teal-600 text-white rounded-full font-semibold hover:bg-teal-700 transition">
             Play
           </a>
@@ -36,8 +38,8 @@
           />
         </div>
         <div class="p-5 text-center">
-          <h3 class="font-bold text-lg">Fruit Bucket</h3>
-          <p class="text-gray-600 text-sm mb-5">Step into a bright, colorful world in Fruit Bucket, a free online game for kids and families. It’s easy to play and packed with fun.</p>
+          <h3 class="font-bold text-lg">{dict.otherGames.fruitBucketTitle}</h3>
+          <p class="text-gray-600 text-sm mb-5">{dict.otherGames.fruitBucketDesc}</p>
           <a href="https://retrosgame.com/fruit-bucket/" class="inline-block px-6 py-2 bg-teal-600 text-white rounded-full font-semibold hover:bg-teal-700 transition">
             Play
           </a>
@@ -54,8 +56,8 @@
           />
         </div>
         <div class="p-5 text-center">
-          <h3 class="font-bold text-lg">Super Mario Bros</h3>
-          <p class="text-gray-600 text-sm mb-5">Step into a colourful, vibrant world and join Mario and Luigi on an exciting adventure full of fun and surprises.</p>
+          <h3 class="font-bold text-lg">{dict.otherGames.superMarioTitle}</h3>
+          <p class="text-gray-600 text-sm mb-5">{dict.otherGames.superMarioDesc}</p>
           <a href="https://retrosgame.com/super-mario-bros/" class="inline-block px-6 py-2 bg-teal-600 text-white rounded-full font-semibold hover:bg-teal-700 transition">
             Play
           </a>
@@ -64,18 +66,18 @@
     </div>
   </div>
  &nbsp;
-  <h2 class="text-3xl font-extrabold text-center mb-12 flex items-center justify-center gap-2">More Games Like Ludo King</h2>
+  <h2 class="text-3xl font-extrabold text-center mb-12 flex items-center justify-center gap-2">{dict.otherGames.moreGamesTitle}</h2>
 
-  <p>Love rolling dice and racing to the finish line? If you enjoy <strong>Ludo King</strong>, then you’ll definitely want to try these fun browser games. No downloads needed—just open your browser and start playing with friends and family:</p>
+  <p set:html={dict.otherGames.moreGamesIntro}></p>
  &nbsp;
-  <h2 class="text-3xl font-extrabold text-center mb-12 flex items-center justify-center gap-2">Dice Dash</h2>
-  <p>Roll the dice and move across a colorful board while avoiding tricky obstacles. Speed boosts and surprise shortcuts make every round exciting!</p>
+  <h2 class="text-3xl font-extrabold text-center mb-12 flex items-center justify-center gap-2">{dict.otherGames.diceDashTitle}</h2>
+  <p set:html={dict.otherGames.diceDashDesc}></p>
  &nbsp;
-  <h2 class="text-3xl font-extrabold text-center mb-12 flex items-center justify-center gap-2">Castle Race</h2>
-  <p>Compete with friends as knights racing toward the castle gates. Use smart moves to block your opponents and reach victory first.</p>
+  <h2 class="text-3xl font-extrabold text-center mb-12 flex items-center justify-center gap-2">{dict.otherGames.castleRaceTitle}</h2>
+  <p set:html={dict.otherGames.castleRaceDesc}></p>
  &nbsp;
-  <h2 >Treasure Ludo</h2>
-  <p>Explore a magical board filled with hidden treasures and traps. Collect gems as you race your tokens home and unlock special power-ups along the way.</p>
+  <h2 class="text-3xl font-extrabold text-center mb-12 flex items-center justify-center gap-2">{dict.otherGames.treasureLudoTitle}</h2>
+  <p set:html={dict.otherGames.treasureLudoDesc}></p>
 
-  <p>Gather your friends, roll the dice, and discover which board adventure will become your next favorite!</p>
+  <p set:html={dict.otherGames.conclusion}></p>
 </section>
