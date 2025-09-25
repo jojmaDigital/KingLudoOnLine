@@ -1,9 +1,13 @@
+---
+export const prerender = false;
+---
+
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>Redirecting...</title>
-</head>
-<body>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ludo King Online</title>
   <script>
     // Supported languages
     const supportedLangs = ['en', 'fr', 'es'];
@@ -15,8 +19,12 @@
     // Check if supported, else default to 'en'
     const targetLang = supportedLangs.includes(lang) ? lang : 'en';
 
-    // Redirect
-    window.location.href = `/${targetLang}/`;
+    // Immediate redirect to home page in detected language
+    window.location.replace(`/${targetLang}/`);
   </script>
-</body>
+  <noscript>
+    <meta http-equiv="refresh" content="0;url=/en/">
+  </noscript>
+</head>
+<body style="margin:0;padding:0;overflow:hidden;height:0;"></body>
 </html>
