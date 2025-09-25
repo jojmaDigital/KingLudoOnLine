@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kingludo.com/sitemap-index.xml
