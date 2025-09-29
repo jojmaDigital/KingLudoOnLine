@@ -19,6 +19,7 @@ export async function getStaticPaths() {
   return getLangStaticPaths();
 }
 
+
 const locale = resolveLang(Astro.params.lang);
 const dict = await import(`../../locales/${locale}.json`).then((m) => m.default);
 ---
